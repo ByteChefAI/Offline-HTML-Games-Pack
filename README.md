@@ -1,6 +1,8 @@
-<h1>A collection of offline HTML games.</h1>
+<h1>Offline Arcade</h1>
 
-<p>A repo filled with 300 offline games that can each run on a single file. This is a good option if you are having internet connectivity issues, or you're at some place with <i>restricted internet</i>.</p>
+<p><a href="index.html"><strong>Open the arcade</strong></a> to search, save, and play all 300 games from one page. The launcher works offline and leaves every original game available in the <code>offline/</code> folder.</p>
+
+<p>For the full offline collection, download the repository and open <code>index.html</code> in a browser.</p>
 
 
 **Usage:** Under the Code button, select Download ZIP. It may take a while to download. After, extract the zip by right clicking on it and selecting Extract All. Now you have the repo containing the games all in a folder. You can also clone the repository using git.
